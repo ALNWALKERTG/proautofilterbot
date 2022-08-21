@@ -7,11 +7,11 @@ class script(object):
 ✴️𝙏𝙝𝙚𝙣 𝙎𝙚𝙚 𝙈𝙮 𝙋𝙤𝙬𝙚𝙧𝙨 𝙊𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥✨️
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
- ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a> """
+ ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href=@oreoolspecialone>꧁•ᬼ̩༒𝘀𝗽𝗲𝗰𝗶𝗮𝗹_𝗼𝗻𝗲 ༒•ᬼ̩</a> """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/ALANWALKER_TG>ALAN WALKER</a>
+✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=@oreoolspecialone>꧁•ᬼ̩༒𝘀𝗽𝗲𝗰𝗶𝗮𝗹_𝗼𝗻𝗲 ༒•ᬼ̩</a>
 ✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -67,7 +67,7 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 3. /Runs - Jokes 
 4. /Goal or /Shoot - To Make A Goal Or Shoot
 5. /luck or /cownd - Spin the Lucky
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=@oreoolspecialone>꧁•ᬼ̩༒𝘀𝗽𝗲𝗰𝗶𝗮𝗹_𝗼𝗻𝗲 ༒•ᬼ̩</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
 <b>NOTE:</b>
@@ -87,7 +87,7 @@ Song Download Module, For Those Who Love Music
 <b>🌀Usage🌀</b>
 - Can Be Used By Everyone
 - Works in bot pm
-Made By<a href=https://t.me/ALANWALKER_TG >ALAN WALKER TG</a>"""
+Made By<a href=@oreoolspecialone>꧁•ᬼ̩༒𝘀𝗽𝗲𝗰𝗶𝗮𝗹_𝗼𝗻𝗲 ༒•ᬼ̩</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>Pin :</b>
 <b>All The Pin Related Commands Can Be Found Here; Keep Your Chat Up To Date On The Latest News With A Simple Pinned Message!</b>
